@@ -1,0 +1,7 @@
+# Contact Book CLI - Python Dependencies
+# No external dependencies required
+# Python 3.6+ with standard library only
+
+# Standard library modules used:
+# - os (for screen clearing)
+# - No third-party packages needed
